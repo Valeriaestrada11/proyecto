@@ -24,7 +24,7 @@ body{
 
 .hero-content{
     margin-top: 60px;
-    background: url(/Img/IMG_9183\ inicio.jpeg)center/cover;
+    background: url(Img/IMG_9183\ inicio.jpeg)center/cover;
     height: 100vh;
     color: white;
     display:flex;
