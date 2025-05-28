@@ -1,0 +1,83 @@
+.colornav{
+    background-color: rgba(42, 212, 212, 0.521);
+    
+}
+
+.nav-link{
+    color: sienna!important;
+}
+
+.nav-link:hover{
+    color: aliceblue!important;
+}
+
+*{
+    margin: 0%;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-content{
+    margin-top: 60px;
+    background: url(/Img/IMG_9183\ inicio.jpeg)center/cover;
+    height: 100vh;
+    color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0 40px;
+}
+
+.intro{
+    font-size: 30px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6;
+}
+
+.card-header{
+    background-color: rgba(0, 255, 255, 0.377);
+}
+
+.card-footer{
+    background-color: rgba(0, 255, 255, 0.377);
+}
+
+.active{
+    color: aliceblue!important;
+}
+
+.text-center{
+    margin-top: 74px;
+}
+
+section{
+    padding: 10px 1rem;
+}
+
+.card{
+    margin: 1rem 0 ;
+    margin-top: 50px;
+    height: 200px;
+}
+
+main{
+    background-color: rgba(130, 231, 160, 0.253);
+}
+
+.container{
+    height: 500px;
+}
+
+.imagen-carrusel{
+    height: 800px;
+    object-fit: cover;
+}
+
